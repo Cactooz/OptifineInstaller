@@ -7,7 +7,7 @@ echo Optifine install with Minecraft built in Java >> InitLog.txt
 echo OptiFine install with Minecraft built in Java
 echo.
 
-set javapath=C:\Program Files (x86)\Minecraft\runtime\jre-x64\bin\java
+set javapath=C:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\java
 set /p optifinefile="OptiFine filename without file ending (.jar): "
 
 echo Defined default java.exe path: "%javapath%" >> InitLog.txt
